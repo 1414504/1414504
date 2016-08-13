@@ -52,7 +52,7 @@ and open the template in the editor.
                             <div class="col-md-5"><img class="cristina" src="assets/chrisinajayne.jpg" alt=""/></div>
                             <div class="col-md-7">
                                 <h2>Welcome to the School of Computing Science and Digital Media</h2>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Lorem ipsum dolor sit amet, consectetur shahid adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             </div>
 
                         </div> 
